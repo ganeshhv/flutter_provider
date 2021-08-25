@@ -2,4 +2,4 @@
 
 Flutter Provider Firebase Application
 
-Firebase apllied for bot web and android 
+Firebase apllied for both web and android 
